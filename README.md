@@ -1,2 +1,2 @@
-# MBusA_2020
+# MBusA 2020
 Code, references and tinkering from MBusA 2020
